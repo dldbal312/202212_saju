@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="90" viewBox="0 0 90 90">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_614" data-name="사각형 614" width="90" height="90" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_326" data-name="그룹 326" transform="translate(0 0)">
+    <g id="그룹_325" data-name="그룹 325" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="패스_2117" data-name="패스 2117" d="M45.2,1.24a20.347,20.347,0,0,0-12.8,14.4A20.339,20.339,0,0,0,1.236,39.032c8.71,23.946,50.693,30.291,50.693,30.291s28.049-31.968,19.34-55.914A20.313,20.313,0,0,0,45.2,1.24" transform="translate(0 0)" fill="#5d62f3"/>
+      <path id="패스_2118" data-name="패스 2118" d="M78.187,46.6a14.713,14.713,0,0,0-13.824,2.034,14.756,14.756,0,0,0-28.239-1.552C29.841,64.5,50.273,87.669,50.273,87.669s30.489-4.684,36.774-22.1A14.826,14.826,0,0,0,78.187,46.6" transform="translate(0.063 0.178)" fill="#32e7ad"/>
+      <path id="패스_2119" data-name="패스 2119" d="M78.187,46.6a14.713,14.713,0,0,0-13.824,2.034,14.756,14.756,0,0,0-28.239-1.552C29.841,64.5,50.273,87.669,50.273,87.669s30.489-4.684,36.774-22.1A14.826,14.826,0,0,0,78.187,46.6Z" transform="translate(0.063 0.178)" fill="none" stroke="#32e7ad" stroke-width="4"/>
+      <path id="패스_2120" data-name="패스 2120" d="M85.022,53.555a1.5,1.5,0,1,1-2.125,0,1.51,1.51,0,0,1,2.125,0" transform="translate(0.148 0.254)" fill="#fff"/>
+      <path id="패스_2121" data-name="패스 2121" d="M83.95,59.921s.765,7.893-7.275,13.626" transform="translate(0.137 0.287)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      <path id="패스_2122" data-name="패스 2122" d="M6.343,33.61S5.9,41.528,14.167,46.926" transform="translate(0.011 0.161)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      <rect id="사각형_646" data-name="사각형 646" width="90" height="90" fill="none"/>
+      <path id="패스_2147" data-name="패스 2147" d="M85.022,53.555a1.5,1.5,0,1,1-2.125,0,1.51,1.51,0,0,1,2.125,0" transform="translate(-77.609 -26.746)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

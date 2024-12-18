@@ -1,0 +1,47 @@
+@charset "UTF-8";
+@import "../css/reset.css";
+@import "../css/layout.css";
+
+/*
+	common.css 공통요소 (클래스 한개로 제어) 안에 있는 스타일은 [단일 클래스] 입니다. 
+	공통요소와 함께 쓰신다면 다중클래스로 지정해서 사용하시길 바랍니다.
+	수정시 공통요소 참고 /guide/guide.html
+*/
+
+/* 섹션별 */
+.sect_conb1:last-child{margin-bottom:0 !important;}
+.sect_conb1{margin-bottom:13.6vw;}
+
+/* 타이틀 */
+.tit_area{margin-bottom:3.8vw;display:flex;justify-content:space-between;line-height:1.4;align-items:center;}
+.comtit1{font-size:4.8vw;font-weight:700;color:#111}
+
+/* 아이콘, 탭, 버튼 공통 이미지 */
+.comico{display:inline-block;vertical-align:middle;background:0 0 no-repeat;color:transparent;font-size:0.1vw;line-height:0.5;}
+
+/* 공통아이콘 */
+.comico + .txt{margin-left:1.0vw;display:inline-block;vertical-align:middle}
+.comico.allmenu{width:4.8vw;}
+.comico.search{width:4.3vw;}
+.comico.boticon01{width:5.5vw;}
+.comico.boticon02{width:6.2vw;}
+.comico.boticon03{width:6.4vw;}
+.comico.boticon04{width:6.7vw;}
+.comico.won{width:5.5vw;}
+.comico.rateS{width:4.0vw;}
+.comico.menu_close{width:5vw;}
+
+/* 버튼요소 */
+.btnarea{display:flex;align-items:center;}
+.btnarea.right{justify-content:flex-end}
+.btnarea.center{justify-content:center}
+.btnarea .btncom{flex:1;}
+.btncom{display:inline-flex;align-items:center;justify-content:center;margin:0 0.4vw;padding:0 2.9vw;text-align:center;}
+.btncom:first-child{margin-left:0 !important}
+.btncom:last-child{margin-right:0 !important}
+.btncom.sty1{height:11.9vw;border-radius: 2.9vw;color:#fff;font-size:4.3vw;font-weight:700;background-color:#5D62F3}
+
+/* swiper */
+.swiper-pagination{width:100%;bottom:2.9vw;}
+.swiper-pagination-bullet{width:2.9vw;height:2.9vw;margin:0 1.4vw;background-color:#C4C4C4}
+.swiper-pagination-bullet-active{background-color:#FFF}
